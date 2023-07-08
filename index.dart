@@ -21,8 +21,22 @@
 //   print(resultado);
 // }
 
-var nome = "Izzac";
-var numero = 12;
+// var nome = "Izzac";
+// var numero = 12;
 
-dynamic sobrenome = "Pedro"
-dynamic valor = 12.4
+// dynamic sobrenome = "Pedro"
+// dynamic valor = 12.4
+
+// void main(){
+//   double num1 = 5.5;
+//   doub
+// }
+
+// void main() {
+//   List list = ['Izac', "Gabriel", "123"];
+
+//   list.add("Preto");
+//   list.insert(1, "123");
+
+//   print(list);
+// }
