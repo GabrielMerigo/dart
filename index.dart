@@ -40,3 +40,21 @@
 
 //   print(list);
 // }
+
+// void main() {
+//   List list = ['Izac', "Gabriel", "123"];
+
+//   list.add("Preto");
+//   list.insert(1, "123");
+
+//   print(list);
+// }
+
+void main() {
+  var usuario = {1: "Gabriel", "idade": 20};
+
+  print(usuario["idade"]);
+  usuario["idade"] = 25;
+
+  print(usuario.length);
+}
