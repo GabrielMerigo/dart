@@ -50,11 +50,23 @@
 //   print(list);
 // }
 
+// void main() {
+//   var usuario = {1: "Gabriel", "idade": 20};
+
+//   print(usuario["idade"]);
+//   usuario["idade"] = 25;
+
+//   print(usuario.length);
+// }
+
 void main() {
-  var usuario = {1: "Gabriel", "idade": 20};
+  repeticaoDoWhile();
+}
 
-  print(usuario["idade"]);
-  usuario["idade"] = 25;
+repeticaoDoWhile() {
+  int valor = 5;
 
-  print(usuario.length);
+  do {
+    print("o valor é $valor");
+  } while (true);
 }
