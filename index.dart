@@ -13,10 +13,16 @@
 //   print(valorQuebrado);
 // }
 
-void main() {
-  bool status = true;
-  bool isTrue = 1 > 0;
-  String resultado = status ? "Verdadeiro" : "Falso";
+// void main() {
+//   bool status = true;
+//   bool isTrue = 1 > 0;
+//   String resultado = status ? "Verdadeiro" : "Falso";
 
-  print(resultado);
-}
+//   print(resultado);
+// }
+
+var nome = "Izzac";
+var numero = 12;
+
+dynamic sobrenome = "Pedro"
+dynamic valor = 12.4
